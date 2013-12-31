@@ -26,6 +26,6 @@ Aquí responderé dudas comunes
 
 ## ToDo
 
-[]Translate readme.md to english
-[]add a search bar
-[]add effects
+- [ ] Translate readme.md to english
+- [ ] add a search bar
+- [ ] add effects 
